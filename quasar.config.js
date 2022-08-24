@@ -18,7 +18,7 @@ module.exports = configure(function (/* ctx */) {
     ],
 
     extras: [
-      'mdi-v5',
+      'mdi-v7',
     ],
 
     // Full list of options: https://v2.quasar.dev/quasar-cli-vite/quasar-config-js#build
